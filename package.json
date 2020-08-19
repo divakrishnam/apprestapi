@@ -1,0 +1,24 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divakrishnam/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "divakrishnam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divakrishnam/apprestapi/issues"
+  },
+  "homepage": "https://github.com/divakrishnam/apprestapi#readme"
+}
